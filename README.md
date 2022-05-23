@@ -40,11 +40,12 @@ Finally, the webpage and the dashboard were customized with the followings:
 ## Sources 
 
 * Data Source: 
-- [data.js](https://github.com/duygusimsek/plotly/blob/main/data.js)
-- [samples.json](https://github.com/duygusimsek/plotly/blob/main/samples.json)
+  - [data.js](https://github.com/duygusimsek/plotly/blob/main/data.js)
+  - [samples.json](https://github.com/duygusimsek/plotly/blob/main/samples.json)
 
 * Software: [Visual Studio Code, 1.65.2](https://visualstudio.microsoft.com/downloads/)
 * Language: JavaScript
-*HTML
+* HTML, CSS
+
 
 
