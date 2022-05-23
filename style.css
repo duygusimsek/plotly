@@ -1,0 +1,23 @@
+
+ .tag {
+     font-family: inherit; 
+     font-size: 1rem;
+    }  
+
+.jumbotron {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNxlIzUKCPvv7J4OhKjNOKdaKDqTMk4aSoVw&usqp=CAU");
+    background-size: 100% 100%;
+    text-align: center;
+
+  }
+
+.jumbotron h1{
+    color:white;
+}
+
+.jumbotron p{
+    color:white;
+    font-size: x-large;
+    font-weight: 800;
+}
+
